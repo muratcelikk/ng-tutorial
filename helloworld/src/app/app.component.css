@@ -1,6 +1,9 @@
-h3{
+h3{    
+    display: block; 
     text-align: center;
-    font-family:fantasy;
-    color: blue;
+    font-family: monospace;
+    width: auto;
+    height: 50%;
+    height: 200px;
     background-color: aqua;
-}
+  }
