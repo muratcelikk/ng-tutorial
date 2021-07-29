@@ -1,0 +1,9 @@
+h3{
+    display: block;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:coral;
+    background-color:gold;
+    height: 100px;
+    width: 100%;
+  }

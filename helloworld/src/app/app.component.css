@@ -1,8 +1,9 @@
-h3{    
-    display: block; 
-    text-align: center;
-    font-family: monospace;
-    width: 95%;
-    height: 200px;
-    background-color: aqua;
-  }
+h2{
+  display: block;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color:blue;
+  background-color: aqua;
+  height: 100px;
+  width: 50%;
+}
