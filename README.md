@@ -1,5 +1,5 @@
 # ng-tutorial
 Getting started with Angular
 
-Projeleri çalıştırmak için terminale her projeden önce aşağıdaki komutu giriniz!:
+Her projeden önce terminale aşağıdaki komutu giriniz!("node_modules" için):
 > npm install rimraf 
